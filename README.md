@@ -3,7 +3,7 @@
 Perkenalkan nama saya **Muh Kholil Gibran**.<br>
 
 Saya adalah seorang **Pelajar/Mahasiswa** di **Universitas Negeri Makassar**
-dan juga seorang **Pelajar** di [Dicoding]((https://www.dicoding.com/users/muhkholilgibran_23/academies)).<br>
+dan juga seorang **Pelajar** di [Dicoding](https://www.dicoding.com/users/muhkholilgibran_23/academies).<br>
 
 Saya mempelajari beberapa pelatihan di Dicoding dan memiliki beberapa
 [sertifikat](https://drive.google.com/file/d/1Yp7uHgFtLth9hzmIGQYnn2d8kjXBTWdR/view?usp=drive_link).<br> dari dicoding
